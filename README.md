@@ -6,7 +6,7 @@ This project focuses on analyzing Airbnb listings across Manhattan using Microso
 
 ## 🎯 Objectives
 
-- 🔹 Understand pricing variations across different Manhattan neighborhoods
-- 🔹 Identify high-demand areas and peak booking trends
-- 🔹 Analyze factors influencing listing performance
-- 🔹 Suggest data-backed strategies to increase host revenue
+- Understand pricing variations across different Manhattan neighborhoods
+- Identify high-demand areas and peak booking trends
+- Analyze factors influencing listing performance
+- Suggest data-backed strategies to increase host revenue
